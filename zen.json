@@ -1,0 +1,178 @@
+[
+    {
+      "user": "ram",
+      "codekata": 156,
+      "attendance": "80%",
+      "topic": "promise",
+      "tasks": "callback hell",
+      "company_drive": "tcs",
+      "mentors": "ragav",
+      "absent": "16 oct-2020",
+      "company_drive_date": "18 oct-2020"
+    },
+    {
+      "user": "ramya",
+      "codekata": 100,
+      "attendance": "85%",
+      "topic": "api",
+      "tasks": "country api",
+      "company_drive": "google",
+      "mentors": "ragav",
+      "absent": "10 oct-2020",
+      "company_drive_date": "11 oct-2020"
+    },
+    {
+      "user": "robin",
+      "codekata": 16,
+      "attendance": "95%",
+      "topic": "mongodb",
+      "tasks": "create dbs",
+      "company_drive": "amazon",
+      "mentors": "tamil",
+      "absent": "19 oct-2020",
+      "company_drive_date": "21 oct-2020"
+    },
+    {
+      "user": "paveen",
+      "codekata": 15,
+      "attendance": "59%",
+      "topic": "react",
+      "tasks": "crud",
+      "company_drive": "zoho",
+      "mentors": "ragav",
+      "absent": "1 oct-2020",
+      "company_drive_date": "10 oct-2020"
+    },
+    {
+      "user": "john",
+      "codekata": 159,
+      "attendance": "99%",
+      "topic": "sql",
+      "tasks": "sql table",
+      "company_drive": "yahoo",
+      "mentors": "sivaranjini",
+      "absent": "21 oct-2020",
+      "company_drive_date": "25 oct-2020"
+    },
+    {
+      "user": "kumar",
+      "codekata": 106,
+      "attendance": "78%",
+      "topic": "nodejs",
+      "tasks": "filesystem",
+      "company_drive": "spacex",
+      "mentors": "ragav",
+      "absent": "11 oct-2020",
+      "company_drive_date": "8 oct-2020"
+    },
+    {
+      "user": "ram",
+      "codekata": 161,
+      "attendance": "88%",
+      "topic": "restapi",
+      "tasks": "covidapi",
+      "company_drive": "microsoft",
+      "mentors": "ragav",
+      "absent": "1 oct-2020",
+      "company_drive_date": "18 oct-2020"
+    },
+    {
+      "user": "surya",
+      "codekata": 1056,
+      "attendance": "55",
+      "topic": "full stack demo",
+      "tasks": "e-com",
+      "company_drive": "facebook",
+      "mentors": "ragav",
+      "absent": "11 oct-2020",
+      "company_drive_date": "8 oct-2020"
+    },
+    {
+      "user": "ravi",
+      "codekata": 168,
+      "attendance": "87%",
+      "topic": "function",
+      "tasks": "type of functions in js",
+      "company_drive": "netflix",
+      "mentors": "ragav",
+      "absent": "06 oct-2020",
+      "company_drive_date": "8 oct-2020"
+    },
+    {
+      "user": "gokul",
+      "codekata": 167,
+      "attendance": "8%",
+      "topic": "react-hook",
+      "tasks": "useEffecst",
+      "company_drive": "ola",
+      "mentors": "ragav",
+      "absent": "6 oct-2020",
+      "company_drive_date": "8 oct-2020"
+    },
+    {
+      "user": "kavi",
+      "codekata": 168,
+      "attendance": "87%",
+      "topic": "function",
+      "tasks": "type of functions in js",
+      "company_drive": "netflix",
+      "mentors": "ragav",
+      "absent": "06 oct-2020",
+      "company_drive_date": "8 oct-2020"
+    },
+    {
+      "user": "ravi",
+      "codekata": 168,
+      "attendance": "87%",
+      "topic": "js promise",
+      "tasks": "type of promise",
+      "company_drive": "infotech",
+      "mentors": "ragav",
+      "absent": "06 oct-2020",
+      "company_drive_date": "8 oct-2020"
+    },
+    {
+      "user": "ravi kumer",
+      "codekata": 1778,
+      "attendance": "87%",
+      "topic": "function",
+      "tasks": "type of functions in js",
+      "company_drive": "zoho",
+      "mentors": "ragav",
+      "absent": "06 oct-2020",
+      "company_drive_date": "8 oct-2020"
+    },
+    {
+      "user": "ravi",
+      "codekata": 68,
+      "attendance": "87%",
+      "topic": "sql",
+      "tasks": "joins",
+      "company_drive": "zerotech",
+      "mentors": "ragav",
+      "absent": "06 oct-2020",
+      "company_drive_date": "8 oct-2020"
+    },
+    {
+      "user": "jaya",
+      "codekata": 168,
+      "attendance": "87%",
+      "topic": "function",
+      "tasks": "api",
+      "company_drive": "netflix",
+      "mentors": "ragav",
+      "absent": "16 oct-2020",
+      "company_drive_date": "18 oct-2020"
+    },
+    {
+      "user": "kanjana",
+      "codekata": 168,
+      "attendance": "87%",
+      "topic": "express",
+      "tasks": "server",
+      "company_drive": "netflix",
+      "mentors": "ragav",
+      "absent": "06 oct-2020",
+      "company_drive_date": "8 oct-2020"
+    }
+  ]
